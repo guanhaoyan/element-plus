@@ -1,5 +1,5 @@
 <template>
-  <el-steps :active="active" finish-status="success">
+  <el-steps :active="active" finish-status="success" space="100px">
     <el-step title="Step 1" />
     <el-step title="Step 2" />
     <el-step title="Step 3" />
